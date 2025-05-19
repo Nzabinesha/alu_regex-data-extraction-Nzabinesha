@@ -32,18 +32,18 @@ This script extracts the following patterns using regex:
 
 ##  How to Run the Project
 
-### 1. Clone the Repository
-""" bash
-git clone https://github.com/Nzabinesha /alu_regex-data-extraction-Nzabinesha.git
-cd alu_regex-data-extraction-Nzabinesha.git """ 
-### . Run the Script
-./regex_extraction.py
+ 1. Clone the Repository
+
+```git clone https://github.com/Nzabinesha /alu_regex-data-extraction-Nzabinesha.git(```
+```cd alu_regex-data-extraction-Nzabinesha.git ```
+. 2. Run the Script
+```./regex_extraction.py ```
 You'll see the extracted emails, URLs, phone numbers, and more printed in your terminal.
 
 
  
 --
-### .Author**
+### .Author
 Nzabinesha Merci 
 Junior Full Stack Developer
 Email: m.nzabinesh@alustudent.com
